@@ -7,3 +7,7 @@ setopt extendedglob
 
 # Allow [ or ] whereever you want
 unsetopt nomatch
+
+setopt notify
+setopt completeinword
+setopt inc_append_history
